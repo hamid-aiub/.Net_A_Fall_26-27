@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F3C43-5F4F-435A-A724-555D1A13331F}|IntroToMVC_A\\IntroToMVC_A.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_a\\introtomvc_a\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4F3C43-5F4F-435A-A724-555D1A13331F}|IntroToMVC_A\\IntroToMVC_A.csproj|solutionrelative:introtomvc_a\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F3C43-5F4F-435A-A724-555D1A13331F}|IntroToMVC_A\\IntroToMVC_A.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_a\\introtomvc_a\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4F3C43-5F4F-435A-A724-555D1A13331F}|IntroToMVC_A\\IntroToMVC_A.csproj|solutionrelative:introtomvc_a\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F3C43-5F4F-435A-A724-555D1A13331F}|IntroToMVC_A\\IntroToMVC_A.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_a\\introtomvc_a\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4F3C43-5F4F-435A-A724-555D1A13331F}|IntroToMVC_A\\IntroToMVC_A.csproj|solutionrelative:introtomvc_a\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F3C43-5F4F-435A-A724-555D1A13331F}|IntroToMVC_A\\IntroToMVC_A.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_a\\introtomvc_a\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4F3C43-5F4F-435A-A724-555D1A13331F}|IntroToMVC_A\\IntroToMVC_A.csproj|solutionrelative:introtomvc_a\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F3C43-5F4F-435A-A724-555D1A13331F}|IntroToMVC_A\\IntroToMVC_A.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_a\\introtomvc_a\\views\\user\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4F3C43-5F4F-435A-A724-555D1A13331F}|IntroToMVC_A\\IntroToMVC_A.csproj|solutionrelative:introtomvc_a\\views\\user\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F3C43-5F4F-435A-A724-555D1A13331F}|IntroToMVC_A\\IntroToMVC_A.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_a\\introtomvc_a\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4F3C43-5F4F-435A-A724-555D1A13331F}|IntroToMVC_A\\IntroToMVC_A.csproj|solutionrelative:introtomvc_a\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F3C43-5F4F-435A-A724-555D1A13331F}|IntroToMVC_A\\IntroToMVC_A.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_a\\introtomvc_a\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4F3C43-5F4F-435A-A724-555D1A13331F}|IntroToMVC_A\\IntroToMVC_A.csproj|solutionrelative:introtomvc_a\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F3C43-5F4F-435A-A724-555D1A13331F}|IntroToMVC_A\\IntroToMVC_A.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_a\\introtomvc_a\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4F3C43-5F4F-435A-A724-555D1A13331F}|IntroToMVC_A\\IntroToMVC_A.csproj|solutionrelative:introtomvc_a\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F3C43-5F4F-435A-A724-555D1A13331F}|IntroToMVC_A\\IntroToMVC_A.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_a\\introtomvc_a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4F3C43-5F4F-435A-A724-555D1A13331F}|IntroToMVC_A\\IntroToMVC_A.csproj|solutionrelative:introtomvc_a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_A\\IntroToMVC_A\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC_A\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_A\\IntroToMVC_A\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IntroToMVC_A\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T07:57:20.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_A\\IntroToMVC_A\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC_A\\Views\\User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_A\\IntroToMVC_A\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "IntroToMVC_A\\Views\\User\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T07:54:06.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_A\\IntroToMVC_A\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC_A\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_A\\IntroToMVC_A\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "IntroToMVC_A\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T07:49:08.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_A\\IntroToMVC_A\\Views\\User\\List.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC_A\\Views\\User\\List.cshtml",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_A\\IntroToMVC_A\\Views\\User\\List.cshtml",
+              "RelativeToolTip": "IntroToMVC_A\\Views\\User\\List.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T07:38:13.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_A\\IntroToMVC_A\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC_A\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_A\\IntroToMVC_A\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "IntroToMVC_A\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-29T07:24:47.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_A\\IntroToMVC_A\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "IntroToMVC_A\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_A\\IntroToMVC_A\\Controllers\\UserController.cs",
+              "RelativeToolTip": "IntroToMVC_A\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:22:08.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_A\\IntroToMVC_A\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "IntroToMVC_A\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_A\\IntroToMVC_A\\Models\\UserModel.cs",
+              "RelativeToolTip": "IntroToMVC_A\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:18:14.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_A\\IntroToMVC_A\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IntroToMVC_A\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_A\\IntroToMVC_A\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IntroToMVC_A\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:52:09.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_A\\IntroToMVC_A\\Program.cs",
+              "RelativeDocumentMoniker": "IntroToMVC_A\\Program.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_A\\IntroToMVC_A\\Program.cs",
+              "RelativeToolTip": "IntroToMVC_A\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T07:14:23.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_W2_Th_Sec_A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2725118B-FDA7-410A-8236-3FEFC402995D}|IntroToMVC_W2_Th_Sec_A\\IntroToMVC_W2_Th_Sec_A.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_w2_th_sec_a\\introtomvc_w2_th_sec_a\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2725118B-FDA7-410A-8236-3FEFC402995D}|IntroToMVC_W2_Th_Sec_A\\IntroToMVC_W2_Th_Sec_A.csproj|solutionrelative:introtomvc_w2_th_sec_a\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2725118B-FDA7-410A-8236-3FEFC402995D}|IntroToMVC_W2_Th_Sec_A\\IntroToMVC_W2_Th_Sec_A.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_w2_th_sec_a\\introtomvc_w2_th_sec_a\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2725118B-FDA7-410A-8236-3FEFC402995D}|IntroToMVC_W2_Th_Sec_A\\IntroToMVC_W2_Th_Sec_A.csproj|solutionrelative:introtomvc_w2_th_sec_a\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2725118B-FDA7-410A-8236-3FEFC402995D}|IntroToMVC_W2_Th_Sec_A\\IntroToMVC_W2_Th_Sec_A.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_w2_th_sec_a\\introtomvc_w2_th_sec_a\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2725118B-FDA7-410A-8236-3FEFC402995D}|IntroToMVC_W2_Th_Sec_A\\IntroToMVC_W2_Th_Sec_A.csproj|solutionrelative:introtomvc_w2_th_sec_a\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2725118B-FDA7-410A-8236-3FEFC402995D}|IntroToMVC_W2_Th_Sec_A\\IntroToMVC_W2_Th_Sec_A.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_w2_th_sec_a\\introtomvc_w2_th_sec_a\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2725118B-FDA7-410A-8236-3FEFC402995D}|IntroToMVC_W2_Th_Sec_A\\IntroToMVC_W2_Th_Sec_A.csproj|solutionrelative:introtomvc_w2_th_sec_a\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2725118B-FDA7-410A-8236-3FEFC402995D}|IntroToMVC_W2_Th_Sec_A\\IntroToMVC_W2_Th_Sec_A.csproj|c:\\users\\teacher\\source\\repos\\introtomvc_w2_th_sec_a\\introtomvc_w2_th_sec_a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2725118B-FDA7-410A-8236-3FEFC402995D}|IntroToMVC_W2_Th_Sec_A\\IntroToMVC_W2_Th_Sec_A.csproj|solutionrelative:introtomvc_w2_th_sec_a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_W2_Th_Sec_A\\IntroToMVC_W2_Th_Sec_A\\Views\\Product\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC_W2_Th_Sec_A\\Views\\Product\\ProductList.cshtml",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_W2_Th_Sec_A\\IntroToMVC_W2_Th_Sec_A\\Views\\Product\\ProductList.cshtml",
+              "RelativeToolTip": "IntroToMVC_W2_Th_Sec_A\\Views\\Product\\ProductList.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-04T08:11:50.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_W2_Th_Sec_A\\IntroToMVC_W2_Th_Sec_A\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntroToMVC_W2_Th_Sec_A\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_W2_Th_Sec_A\\IntroToMVC_W2_Th_Sec_A\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "IntroToMVC_W2_Th_Sec_A\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-04T08:08:19.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_W2_Th_Sec_A\\IntroToMVC_W2_Th_Sec_A\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "IntroToMVC_W2_Th_Sec_A\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_W2_Th_Sec_A\\IntroToMVC_W2_Th_Sec_A\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "IntroToMVC_W2_Th_Sec_A\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T08:06:39.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_W2_Th_Sec_A\\IntroToMVC_W2_Th_Sec_A\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IntroToMVC_W2_Th_Sec_A\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_W2_Th_Sec_A\\IntroToMVC_W2_Th_Sec_A\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IntroToMVC_W2_Th_Sec_A\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T08:06:03.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_W2_Th_Sec_A\\IntroToMVC_W2_Th_Sec_A\\Program.cs",
+              "RelativeDocumentMoniker": "IntroToMVC_W2_Th_Sec_A\\Program.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\IntroToMVC_W2_Th_Sec_A\\IntroToMVC_W2_Th_Sec_A\\Program.cs",
+              "RelativeToolTip": "IntroToMVC_W2_Th_Sec_A\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T08:05:49.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1007,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -15,6 +15,6 @@ namespace Intro_EF_A.Models
         public string department { get; set; }
 
         [Required(ErrorMessage = "CGPA is required")]
-        public float cgpa { get; set; }
+        public double cgpa { get; set; }
     }
 }

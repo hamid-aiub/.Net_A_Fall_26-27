@@ -1,5 +1,31 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿
+<div>
+    <div class="d-flex justify-content-between">
+        <h3>Student List</h3>
+        <a href="/student/create" class="btn btn-success">Create Student</a>
+    </div>
+    <table  class="table">
+        <tr>
+            
+                <td>ID</td>
+                <td>Name</td>
+                <td>Department</td>
+                <td>Cgpa</td>
+                <td>Actions</td>
+           
+        </tr>
+        @foreach(var student in Model)
+        {
+            <tr>
+                <td>@student.id</td>
+                <td>@student.name</td>
+                <td>@student.department</td>
+                <td>@student.cgpa</td>
+                <td>
+                    <a href="/student/update/@student.id" class="btn btn-primary">Update</a>
+                    <a href="/student/delete/@student.id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </table>
+</div>

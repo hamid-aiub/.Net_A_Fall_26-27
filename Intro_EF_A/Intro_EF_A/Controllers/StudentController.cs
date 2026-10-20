@@ -50,7 +50,7 @@ namespace Intro_EF_A.Controllers
                 _context.SaveChanges();
                 return RedirectToAction("index");
             }
-            return View();
+            return View(student);
         }
 
         [HttpPost]

@@ -1,8 +1,4 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@model Intro_EF_A.Models.Student;
 
 <div>
     <h4>Create a new student</h4>
@@ -10,15 +6,18 @@
         <table>
             <tr>
                 <td>Name</td>
-                <td><input type="text" name="name" placeholder="Enter Name" /> </td>
+                <td><input type="text" name="name" placeholder="Enter Name" value="@Model?.name" class="form-control"/> </td>
+                <td><span class="text-danger">@Html.ValidationMessage("name")</span></td>
             </tr>
             <tr>
                 <td>Department</td>
-                <td><input type="text" name="department" placeholder="Enter Department" /> </td>
+                <td><input type="text" name="department" placeholder="Enter Department" value="@Model?.department" class="form-control" /> </td>
+                <td><span class="text-danger">@Html.ValidationMessage("department")</span></td>
             </tr>
             <tr>
                 <td>Cgpa</td>
-                <td><input type="text" name="cgpa" placeholder="Enter Cgpa" /> </td>
+                <td><input type="text" name="cgpa" placeholder="Enter Cgpa" value="@Model?.cgpa" class="form-control" /> </td>
+                <td><span class="text-danger">@Html.ValidationMessage("cgpa")</span></td>
             </tr>
             <tr>
                 <td></td>

@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\teacher\\source\\repos\\Intro_EF_A\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|c:\\users\\teacher\\source\\repos\\intro_ef_a\\intro_ef_a\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|solutionrelative:intro_ef_a\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|c:\\users\\teacher\\source\\repos\\intro_ef_a\\intro_ef_a\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|solutionrelative:intro_ef_a\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|c:\\users\\teacher\\source\\repos\\intro_ef_a\\intro_ef_a\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|solutionrelative:intro_ef_a\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|c:\\users\\teacher\\source\\repos\\intro_ef_a\\intro_ef_a\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|solutionrelative:intro_ef_a\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|c:\\users\\teacher\\source\\repos\\intro_ef_a\\intro_ef_a\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|solutionrelative:intro_ef_a\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|c:\\users\\teacher\\source\\repos\\intro_ef_a\\intro_ef_a\\views\\student\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,18 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|c:\\users\\teacher\\source\\repos\\intro_ef_a\\intro_ef_a\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|solutionrelative:intro_ef_a\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|c:\\users\\teacher\\source\\repos\\intro_ef_a\\intro_ef_a\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|solutionrelative:intro_ef_a\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|c:\\users\\teacher\\source\\repos\\intro_ef_a\\intro_ef_a\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|solutionrelative:intro_ef_a\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|c:\\users\\teacher\\source\\repos\\intro_ef_a\\intro_ef_a\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|solutionrelative:intro_ef_a\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|c:\\users\\teacher\\source\\repos\\intro_ef_a\\intro_ef_a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|c:\\users\\teacher\\source\\repos\\intro_ef_a\\intro_ef_a\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|solutionrelative:intro_ef_a\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|c:\\users\\teacher\\source\\repos\\intro_ef_a\\intro_ef_a\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC92AF8B-7B03-AAC3-DC57-2B63FE304791}|Intro_EF_A\\Intro_EF_A.csproj|solutionrelative:intro_ef_a\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,63 +50,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\Intro_EF_A\\Intro_EF_A\\Views\\Student\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Intro_EF_A\\Views\\Student\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\teacher\\source\\repos\\Intro_EF_A\\Intro_EF_A\\Views\\Student\\Delete.cshtml",
-              "RelativeToolTip": "Intro_EF_A\\Views\\Student\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-13T07:46:55.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\Intro_EF_A\\Intro_EF_A\\Views\\Student\\Update.cshtml",
-              "RelativeDocumentMoniker": "Intro_EF_A\\Views\\Student\\Update.cshtml",
-              "ToolTip": "C:\\Users\\teacher\\source\\repos\\Intro_EF_A\\Intro_EF_A\\Views\\Student\\Update.cshtml",
-              "RelativeToolTip": "Intro_EF_A\\Views\\Student\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-13T07:37:54.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\Intro_EF_A\\Intro_EF_A\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "Intro_EF_A\\Views\\Student\\Create.cshtml",
               "ToolTip": "C:\\Users\\teacher\\source\\repos\\Intro_EF_A\\Intro_EF_A\\Views\\Student\\Create.cshtml",
               "RelativeToolTip": "Intro_EF_A\\Views\\Student\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-13T07:21:14.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\Intro_EF_A\\Intro_EF_A\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Intro_EF_A\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\teacher\\source\\repos\\Intro_EF_A\\Intro_EF_A\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Intro_EF_A\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAwwA8AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvyEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-11T08:35:57.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\Intro_EF_A\\Intro_EF_A\\Program.cs",
               "RelativeDocumentMoniker": "Intro_EF_A\\Program.cs",
@@ -114,12 +88,11 @@
               "RelativeToolTip": "Intro_EF_A\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T08:34:15.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T08:34:15.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\Intro_EF_A\\Intro_EF_A\\EF\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Intro_EF_A\\EF\\AppDbContext.cs",
@@ -127,38 +100,61 @@
               "RelativeToolTip": "Intro_EF_A\\EF\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T08:10:27.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T08:10:27.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\Intro_EF_A\\Intro_EF_A\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Intro_EF_A\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\teacher\\source\\repos\\Intro_EF_A\\Intro_EF_A\\Models\\Student.cs",
               "RelativeToolTip": "Intro_EF_A\\Models\\Student.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwDUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-11T08:30:22.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\Intro_EF_A\\Intro_EF_A\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "Intro_EF_A\\Views\\Student\\Index.cshtml",
               "ToolTip": "C:\\Users\\teacher\\source\\repos\\Intro_EF_A\\Intro_EF_A\\Views\\Student\\Index.cshtml",
               "RelativeToolTip": "Intro_EF_A\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-11T08:36:59.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\Intro_EF_A\\Intro_EF_A\\Views\\Student\\Update.cshtml",
+              "RelativeDocumentMoniker": "Intro_EF_A\\Views\\Student\\Update.cshtml",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\Intro_EF_A\\Intro_EF_A\\Views\\Student\\Update.cshtml",
+              "RelativeToolTip": "Intro_EF_A\\Views\\Student\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-13T07:37:54.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\Intro_EF_A\\Intro_EF_A\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Intro_EF_A\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\Intro_EF_A\\Intro_EF_A\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "Intro_EF_A\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-13T07:46:55.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\Intro_EF_A\\Intro_EF_A\\appsettings.json",
               "RelativeDocumentMoniker": "Intro_EF_A\\appsettings.json",
@@ -166,12 +162,11 @@
               "RelativeToolTip": "Intro_EF_A\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-11T08:09:54.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T08:09:54.816Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\Intro_EF_A\\Intro_EF_A\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Intro_EF_A\\Controllers\\HomeController.cs",
